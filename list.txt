@@ -1,100 +1,207 @@
-Adam Lambert "Ghost Town"
-a-ha "Cast In Steel"
-Animal ДжаZ "Счастье"
-Animal ДжаZ "Чувства"
-Arcade Fire "Everything Now"
-Ben Watt "Gradually"
-Blue October "Coal Makes Diamonds"
-Blue October "I Hope You're Happy"
-Blur "Go Out"
-Brainstorm "Wonderful Day"
-BrainStorm "Контакты"
-Brandon Flowers "Can't Deny My Love"
-Bring Me the Horizon "Mantra"
-Calvin Harris & Dua Lipa "One KIss"
-Calvin Harris & Sam Smith "Promises"
-CHVRCHES "Leave a Trace"
-Coldplay "A L I E N S"
-Coldplay "A Sky Full of Stars"
-Coldplay "Adventure of a Lifetime"
-Craig Armstrong feat. Brett Anderson "Crash"
-David Bowie "Blackstar"
-David Bowie "I Can't Give Everything Away"
-Depeche Mode "Where's the Revolution"
-Editors "Cold"
-Editors "Life Is a Fear"
-Elbow "Magnificent (She Says)"
-Florence + The Machine "Queen of Peace"
-Foals "Birch Tree"
-Foals "Mountain at My Gates"
-Imagine Dragons "Thunder"
-Jamiroquai "Automaton"
-John Lankaster "Prayer"
-John Lankaster "Xenon"
-Johnny Marr "Hi Hello"
-Justin Timberlake "Can't Stop the Feeling"
-Kasabian "Wasted"
-Kasabian "You're In Love With a Psycho"
-Katy Perry feat. Skip Marley "Chained to the Rhythm"
-Kings of Leon "Waste a Moment"
-Kristine "The Deepest Blue"
-Kungs vs. Cookin' on 3 Burners "This Girl"
-Lana Del Rey "Brooklyn Baby (Richard X Remix)"
-Leonard Cohen "You Want It Darker"
-Liam Gallagher "Wall of Glass"
-Manic Street Preachers "International Blue"
-MATRANG "Вода"
-MATRANG "От Луны до Марса"
-Maxïmo Park "Leave This Island"
-Mike + The Mechanics "Don't Know What Came Over Me"
-Morrissey "Back On the Chain Gang"
-Morrissey "Jacky's Only Happy When She's Up On the Stage"
-Morrissey "My Love, I'd Do Anything for You"
-Morrissey "Spent the Day In Bed"
-New Order "Restless"
-New Order feat. La Roux "Tutti Frutti"
-Noel Gallagher's High Flying Birds "Ballad of the Mighty I"
-Noel Gallagher's High Flying Birds "Holy Mountain"
-Noel Gallagher's High Flying Birds "It's a Beautiful World"
-Noel Gallagher's High Flying Birds "Riverman"
-Paradis "Toi Et Moi"
-Pet Shop Boys "The Pop Kids"
-Portugal. The Man "Feel It Still"
-Primal Scream "Mantra for a State of Mind"
-Primal Scream feat. Sky Ferreira "Where the Light Gets In"
-Red Hot Chili Peppers "Dark Necessites"
-Richard Ashcroft "This Is How It Feels"
-Ride "Catch You Dreaming"
-Ride "Lannoy Point"
-Saint Etienne "Camel Coat"
-Saint Etienne "Dive"
-Savoy "Night Watch"
-Simple Minds "Magic"
-Slowdive "Star Roving"
-Slowdive "Sugar for the Pill"
-Snow Patrol "Don't Give In"
-Suede "Life Is Golden"
-Suede "Outsiders"
-The 1975 "Somebody Else"
-The 2 Bears "Not This Time"
-The Chainsmokers & Coldplay "Something Just Like This"
-The Chemical Brothers feat. Q-Tip "Go"
-The Horrors "Something to Remember Me By"
-The Last Shadow Puppets "Miracle Aligner"
-The Pierces "Kings"
-The Prodigy "Light Up the Sky"
-The Prodigy "Wild Frontier"
-The Stone Roses "Beautiful Thing"
-The Weeknd feat. Daft Punk "I Feel It Coming"
-The xx "Oh Hold"
-Three Days Grace "Painkiller"
-UNKLE "The Other Side (feat. Tom Smith & Philip Sheppard)"
-Ylvis feat. Katie Kim "Language of Love"
-Дельфин "520"
-Дмитрий Маликов "Император Твиттера"
-Краснознаменная дивизия … "Последнее лето детства"
-ЛУНА "Jukebox"
-Максим Фадеев "Breach the Line"
-Мегаполис "Бриллианты из глаз"
-Мумий Тролль "Не знаю зачем"
-Мумий Тролль "Отв. за романтику"
+A$AP Ferg feat. Tyga - Dennis Rodman
+A. G. Cook - Oh Yeah
+A.C.E - Favorite Boys 
+AC/DC - Shot In The Dark
+Amy Macdonald - Crazy Shade of Blue
+Amy Macdonald - The Hudson
+Annie - The Streets Where I Belong
+Arab Strap - The Turning of Our Bones
+Archive - Fuck U Version 
+Austra - I Am Not Waiting (Claptone Remix)
+B1A4 - Like a Movie
+Bastille - survivin'
+Bebe Rexha feat. Doja Cat - Baby, I'm Jealous
+BENEE - Snail
+Billie Joe Armstrong - Kids in America
+Birdy - Island Lights
+Blackfield - Summer's Gone
+BLACKPINK - Lovesick Girls
+Blue Hawaii - Feelin'
+Blue October - Moving on (So Long)
+Bonobo & Totally Enormous Extinct Dinosaurs - Heartbreak
+bridges - Asleep
+Bring Me The Horizon - Teardrops 
+Bruce Springsteen - Letter To You
+Carla Bruni - Le petit guépard
+Carla Bruni - Quelque chose
+Chet Faker - Low
+Chloe x Halle - Do It
+City Girls feat. Doja Cat - Pussy Talk 
+CLC - HELICOPTER
+Conan Gray - Heather
+Corey Taylor - Culture Head
+Cut Copy - Like Breaking Glass (Jacques Lu Cont Remix)
+Dark Tranquillity - Phantom Days
+Daughtry - World On Fire
+DAY6 (Even of Day) - Where the sea sleeps
+Deftones - Genesis
+Digitalism - Reality 2
+Doves - Cathedrals Of The Mind
+Draconian - Sorrow of Sophia
+EDX - The Time Is Now (Robert Burian Remix)
+Eels - Baby Let's Make It Real
+Elektromonteur "Упырь (Revoltmeter Remix)"
+Elvira T - Лучше
+Eskimo Callboy - MC Thunder II (Dancing Like a Ninja)
+EVERGLOW - LA DI DA
+EXID - B.L.E.S.S.E.D (Korean ver.)
+Faithless - Synthesizer (feat. Nathan Ball)
+FAVLAV - Самая лучшая песня
+Feder - Meghna
+Feduk - Останься (feat. BMB SpaceKid)
+Filatov & Karas - Чилить
+First stage - Addiction
+Foster the People - The Things We Do
+Frayle - Ring of Fire
+Freezepop - Anchor to the World Below
+fromis_9 - Feel Good (SECRET CODE)
+Future Islands - Thrill
+Ghostemane - Lazaretto
+Gorillaz - Strange Timez (feat. Robert Smith)
+GSPD - Я тебя никогда не отдам мусорам (Punk Version)
+Gus Dapperton - Medicine
+HENSY, Клава Кока - Костёр
+Hot Chip - Candy Says
+Hot Chip feat. Jarvis Cocker - Straight To The Morning
+Hurts - All I Have To Give
+I Am Waiting for You Last Summer - Boiling Point
+I Prevail & Delaney Jane – Every Time You Leave
+Ian Brown - Little Seed Big Tree
+Iggy Azalea & Tinashe - Dance Like Nobody's Watching
+ILLENIUM - Nightlight
+Inhaler - When It Breaks
+Jaga Jazzist - Tomita
+Jessie Ware - What’s Your Pleasure?
+Joan Osborne - Hands Off
+Kate NV - Lu Na
+Katie Melua - Your Longing Is Gone
+Kito, ZHU & Jeremih - Follow
+Korn feat. YelaWolf - The Devil Went Down to Georgia
+Kylie Minogue - Magic
+Lady Gaga - 911
+Lana Del Rey - Let Me Love You Like A Woman
+Laura Marling - Alexandra
+Lee Eun Sang - Beautiful Scar (feat. PARK WOO JIN)
+Lee Eun Sang - Mirage
+LEE SUHYUN - ALIEN
+Levellers - Generation Fear
+Little Mix - Not a Pop Song
+London Grammar - Californian Soil
+LOONA - Why Not?
+Love Fame Tragedy - Everything Affects Me Now
+LOVELYZ - Obliviate
+Lykke Li - I Will Survive
+Machine Gun Kelly & blackbear - my ex's best friend
+Machine Gun Kelly ft. Halsey - forget me too
+Mamamoo - WANNA BE MYSELF
+Marilyn Manson - DON'T CHASE THE DEAD
+MARRY ME, BELLAMY, ДЖЕДИ - ГРЕШНИЦА
+MATRANG - Мент
+Matt Maeson feat. Lana Del Rey - Hallucinogenics
+Maxïmo Park - Child Of The Flatlands
+Menen - Гавань
+Metallica & the San Francisco Symphony - All Within My Hands
+Moa Pillar & ушко - Volvo
+Molchat Doma - Ne Smeshno
+Motionless In White - Somebody Told Me
+Mylène Farmer - L’âme dans l’eau
+Napalm Death - A Bellyful of Salt and Spleen
+NK - A HUEVO
+Noize MC - Лига легенд
+Ocean Jet - Nightmare
+OneRepublic - Wild Life
+Paloma Faith - Better Than This
+Parov Stelar - Silver Line
+Pendulum - Driver
+Philip George & Salena Mastroianni - Same Love
+Pixies - Hear Me Out
+polnalyubvi - Кометы
+polnalyubvi - Шапито
+PUP - Rot
+Purity Ring - Better Off Alone
+pyrokinesis - Жизнь единственная моя ты
+Rauf & Faik, NILETTO - Если тебе будет грустно
+Roisin Murphy - Something More
+Royal Bliss - Medication (feat. Shim)
+Royal Blood - Trouble’s Coming
+Rudimental - Come Over (feat. Anne-Marie & Tion Wayne)
+Saint Motel - Make Me Feel Like
+Sam Smith - Diamonds
+Sasha Sloan - Is It Just Me?
+Sea Girls - Accident Waiting To Happen
+Seahaven - Moon
+Secret Machines - Everything Starts
+Serge Devant - Third Planet
+Sevendust - Blood From A Stone
+SEVENTEEN - HOME;RUN
+Sewerslvt & Harmful Logic - Tragic Angel
+SG Lewis, Robyn & Channel Tres - Impact
+Shame - Alphabet
+Shortparis - КоКоКо / Cтруктуры не выходят на улицы
+Sia - Courage to Change
+Sigala & James Arthur - Lasting Lover
+Silverstein - My Disaster (2.0)
+Skillet - You Ain't Ready
+ssshhhiiittt! - айсберг
+Steven Wilson - EMINENT SLEAZE
+Stray Kids - Back Door
+Sufjan Stevens - America
+SUPER JUNIOR-D&E - No Love
+TAEMIN - Criminal
+Taylor Swift - betty
+Taylor Swift - the 1
+The Bouncing Souls - Ghosts on the Boardwalk
+THE BOYZ - The Stealer
+The Dangerous Summer - Fuck Them All
+The Knocks & MUNA - Bodies
+The Magic Gang - Make Time For Change
+The Neighbourhood - Cherry Flavoured
+The Neighbourhood - Devil's Advocate
+The Ocean - Pleistocene
+The Smashing Pumpkins - Anno Satana
+The Weeknd - King Of The Fall
+Tiësto - The Business
+Touché Amoré - I'll Be Your Host
+Travis Scott feat. Young Thug, M.I.A. - FRANCHISE
+Tricky - How Long?
+Troye Sivan - IN A DREAM
+VERIVERY - G.B.T.B.
+VLNY - 5 июля
+VLNY - Всё в порядке
+WEAPONS OF ANEW - Sick Boy
+Weeekly - Zig Zag
+Weki Meki - COOL
+Wonho - Open Mind
+You Me At Six - Beautiful Way
+YUKIKA - Love in TV World
+YUNGBLUD - cotton candy
+Zella Day - People Are Strangers
+Zero 9:36, Hollywood Undead - The End / Undead
+Zero People — Беда
+Zivert - Многоточия
+алёна швец. - молодая красивая дрянь
+Би-2 и Володя Котляров - Двенадцать
+Грязь x Oligarkh - Третье сентября
+Дайте танк (!) – Шанс
+Диктофон, Найк Борзов - Космонавт
+Елена Темникова - Как на фантиках Love Is
+Ёлка - Из окон
+кис-кис - не учи
+Клава Кока - Сошла с ума
+Комсомольск - Самурай
+Луна - Лебединая
+Луна - Летние бульвары
+Макс Барских - Silence
+МАНУЛА - Вкус соли
+Мегаполис — Oh What A Sound
+Мегаполис — Три спички
+Монеточка - Крошка
+Найк Борзов - Горизонтальные люди
+Ночные Снайперы - Неторопливая любовь
+Ренарс Кауперс - Мы были там
+Сплин - За семью печатями
+Стереополина - Солнечный мальчик
+Тима Белорусских - В последний раз
+Три дня дождя, lowlife - Траблы
+Чичерина - Новый мир
+Элджей & MORGENSHTERN - Lollipop
