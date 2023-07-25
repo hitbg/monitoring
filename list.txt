@@ -5,6 +5,7 @@
 100 gecs - The Most Wanted Person In the United States
 49th & Main - Icy
 49th & Main - Lovin You
+8485 - Same tasks 
 Aarne, BUSHIDO ZHO - ВМЕСТЕ
 Acid Hasid - Туда-сюда
 Adam Lambert, Sigala - You Make Me Feel (Mighty Real)
@@ -14,14 +15,14 @@ Al Costelloe - So Neurotic
 Alan Walker & Sasha Alex Sloan - Hero
 Alan Walker & Zak Abel - Endless Summer
 Alessandra - Queen Of Kings 
-Alex Lahey - They Wouldn't Let Me In
 Alexander Popov, Fedo - Lost in Space
 ALEXSUCKS - 6 Pack and Cigarettes
 Alfretta Band - Милаха
+Alice Cooper - White Line Frankenstein
 Alison Goldfrapp - Love Invention
 All Time Low - Calm Down
-Alma - Hey Mom Hey Dad
 Alok & Ava Max – Car Keys (Ayla)
+Altın Gün - Doktor Civanım
 Aluna, Pabllo Vittar & MNEK - Oh The Glamour (with Eden Prince) 
 Aly & AJ - Sunchoke 
 Anastacia - Best Days
@@ -33,54 +34,53 @@ Anohni and the Johnsons - It Must Change
 ANOHNI and the Johnsons - Sliver Of Ice
 ANOHNI and the Johnsons - Why Am I Alive Now
 Aphex Twin – Blackbox Life Recorder 21f 
-Arlo Parks - Blades
 Arlo Parks - Pegasus (feat. Phoebe Bridgers)
-Ash - Race The Night 
 Ashnikko - WEEDKILLER
-ATARASHII GAKKO! - Suki Lie
+Ava Max - Choose Your Fighter
 Avenged Sevenfold - We Love You
 BARONESS - Last Word
 Be Your Own Pet - Goodtime!
 Be Your Own Pet - Worship The Whip
+beabadoobee - the way things go
 Beach Fossils - Seconds
 Beach Weather - Unlovable (feat. Pale Waves)
 Bear's Den - Summer & Smoke
-Bebe Rexha & Snoop Dogg - Satellite
 Beck, Phoenix - Odyssey
-Ben Howard - Couldn't Make It Up
+Belinda Carlisle - If U Go
 BENEE - Bagels
 BENEE - Do It Again (feat. Mallrat)
 Bethany Cosentino - Easy
 Bethany Cosentino - It’s Fine
 Beyonce - America Has a Problem
 Billie Eilish - What Was I Made For
-Birdy - Heartbreaker
 Birdy - Your Arms
 BITTERS - Suicide Butterflies
 Black Stone Cherry - Nervous
 Blank & Jones - Last Summer (feat. Amity Isle)
-Bloc Party - High Life
 Bloc Party, KennyHoopla - Keep It Rolling 
 Blonde Redhead - Melody Experiment
 Blonde Redhead - Snowman
+Blue Hawaii - Boom Boom
 Blue Hawaii - Summer For The Loners
 Blue October - Down Here Waiting
-Blur - St. Charles Square 
 BMB Spacekid & Romsta — LOYF
+Bombay Bicycle Club - Diving (feat. Holly Humberstone)
 Bombay Bicycle Club - My Big Day
 Bonny Doon - Let There Be Music
+BOOKER & ЮГ 404 - ТОКИО ХОТЕЛ
 Boys Noize & Pussy Riot - Chastity (feat. Alice Glass)
 Boys World - me, my girls & i 
 Bring Me The Horizon - AmEN! (feat. Lil Uzi Vert, Daryl Palumbo & Glassjaw)
 Bring Me the Horizon - LosT
 Bully - Change Your Mind
 Bully - Hard to Love
+Burial - Unknown Summer
 Bush Tetras - Bird on a Wire
 Bush Tetras - They Live in My Head
 Busted x Hanson - MMMBop 2.0
 CamelPhat - Hope (feat. Max Milner)
-Car Kiss - Days
 carbeau - Tartaruga
+CC:DISCO! & Confidence Man - Chez Moi (Waiting for You)
 CHAI - PARA PARA
 Charli XCX - Speed Drive 
 Cherry Glazerr - Soft Like a Flower
@@ -90,12 +90,12 @@ Chris Shiflett - Dead And Gone
 Chrissy Chlapecka - Head Bitch
 Christine and the Queens - Angels crying in my bed (feat. Madonna)
 Christine and the Queens - Tears can be so soft
-Christine and the Queens - True love (feat. 070 Shake)
 Chromeo - [I Don't Need A] New Girl
 Chromeo - Replacements (feat. La Roux)
 Clark - Medicine (feat. Thom Yorke)
 Closure in Moscow - Primal Sinister 
 CMAT - Where Are Your Kids Tonight (feat. John Grant) 
+Code Orange - Take Shape (feat. Billy Corgan)
 Cold War Kids - Double Life
 Conan Gray - Never Ending Song
 Confidence Man & Daniel Avery - On & On (Again)
@@ -114,6 +114,7 @@ Daneshevskaya - Somewhere In The Middle
 Dannii Minogue - We Could Be The One
 Daryana, daybe - Заставлял
 Daya - Juliene
+De De Mouse & hitomitoi - Love Groovin’
 Decisive Pink - Dopamine
 Delac - All I Ever Need 
 Demi Lovato feat. Slash - Sorry Not Sorry (Rock Version)
@@ -132,6 +133,7 @@ Do Nothing - Amoeba
 Dom Dolla & Nelly Furtado - Eat Your Man
 dOP & Иван Дорн - Up the Boohai
 Dorian Electra - Sodom & Gomorrah
+Doss - Drugs
 Drab Majesty - The Skin And The Glove
 Drab Majesty - Vanity (feat. Rachel Goswell)
 Dream Wife - Orbit
@@ -140,7 +142,6 @@ Duke Dumont - Losing Control (feat. Nathan Nicholson)
 Duke Dumont - The Chant
 DетиПтиц - Тянется Нить
 Echosmith - Sour
-Ed Sheeran - Boat
 Eelke Kleijn vs Lee Cabrera - Self Control
 Eli & Fur - Follow the Dark
 Ellen Allien x Ash Code - Dance and Kill
@@ -148,6 +149,7 @@ Emeli Sandé - One Of These Things First
 Empire State Bastard - Stutter
 ENHYPEN - Sacrifice (Eat Me Up)
 Eric Cantona - The Friends We Lost
+ESSEL, Alex Hepburn - I'm A Woman
 Extreme - Other Side Of The Rainbow
 Falling In Reverse - Last Resort
 FAVLAV - ночь
@@ -155,8 +157,6 @@ Faye Webster - But Not Kiss
 FIFTY FIFTY - Barbie Dreams (feat. Kaliii)
 Finger Eleven - Together Right
 FIZZ – Hell Of A Ride
-Flavien Berger - Berzingue
-Florence + The Machine - Mermaids
 Folamour, Amadou & Mariam - Voyage
 Foo Fighters - Show Me How
 Foo Fighters - The Teacher
@@ -165,7 +165,6 @@ Fred again.. & Brian Eno – Enough
 Garbage - Cities in Dust
 George Clanton - Justify Your Life
 George FitzGerald - Venera
-George FitzGerald & SYML - Mother
 Georgia – Give It Up For Love
 Georgia feat. Years & Years - It's Euphoric (Remix)
 GHEIST - Marimba
@@ -177,13 +176,11 @@ Grian Chatten - Fairlies
 Grian Chatten - Last Time Every Time Forever
 Grian Chatten - The Score
 GROUPLOVE - Francine
-GROUPLOVE - Hello
 GUM - Minor Setback (feat. Ambrose Kenny-Smith)
 GUM - Race to the Air
 GUNSHIP - Monster in Paradise (feat. Milkie Way, Dave Lombardo, Tyler Bates)
-Gus Dapperton & BENEE - Don't Let Me Down
 Gwen Stefani - True Babe
-Half Moon Run - Alco
+HAIM - Home
 Halsey - Lilith (feat. SUGA) 
 Hannah Diamond - Affirmations
 Harmony - Good Things Take Time
@@ -194,32 +191,35 @@ hemlocke springs - sever the blight
 High Contrast - You Don't Understand
 Holly Humberstone - Antichrist
 Hooverphonic - Por Favor
+Hope FC - Call Me A Lioness
 Hozier - Francesca
 Huxley - Told You Once
-Hypaton x David Guetta feat. La Bouche - Be My Lover
 Ian Brown - RULES
 Ice Spice & Nicki Minaj - Princess Diana
 Icona Pop - Where Do We Go From Here
 Icona Pop & Yaeger - Shit We Do For Love
 ILLENIUM, Avril Lavigne & Travis Barker - Eyes Wide Shut
+In This Moment - "THE PURGE"
 Instasamka - Тяги
 Intelligency — Outlaw (Melodic Techno Mix)
 Isaac Delusion — Let her go (feat. LUCASV)
+Issey Cross - Bittersweet Goodbye
 ITZY - Bet On Me
+ITZY - None of My Business
 IVE - I Am
 IVE - Wave
-Jack Black - Peaches
 Jack Harlow - They Don't Love It 
 Jackson Wang & Ciara - Slow
-Jake Shears - I Used to Be in Love
 Jake Shears - Last Man Dancing
 Jam City - Wild n Sweet (feat. Empress Of) 
 James Blake - Big Hammer
 James Smith - Common People
 Janelle Monáe - Lipstick Lover
+Jaz Beeson - Peugeot 205
 JB Dunckel - Summer Bip Bip
 Jean Dawson - delusional world champion
 Jengi - Nothing Is Easy
+Jessie Ware - Freak Me Now
 Jessy Lanza - Limbo
 Jessy Lanza - Midnight Ontario
 Jimmy Eat World - Telepath 
@@ -236,12 +236,14 @@ Käärijä - Cha Cha Cha
 Kasabian - Algorithms
 Kedr Livanskiy - K-Notes
 Kedr Livanskiy - With Love K...
+Kevin de Vries & Mau P - Metro
 KID BRUNSWICK - Heaven Without You
 Killer Mike - Scientists & Engineers
 Killer Mike & El-P - Don't Let the Devil
 Kim Petras, Nicki Minaj - Alone
 King Krule - If Only It Was Warmth
 KISS OF LIFE - Shhhh
+Kita Alexander - 7 Minutes In Heaven
 Klaas & Sary - Fantasy
 KOLA - Лину
 Kovacs & Till Lindemann - Child Of Sin
@@ -249,7 +251,9 @@ Kristin Hersh - Dandelion
 KSI - Easy (feat. Bugzy Malone, R3hab)
 Kungs & Carlita - Shadows
 Kvelertak - Skoggangr 
+L Devine - Miscommunikaty
 Labrinth - The Feels (Feat. Zendaya)
+Lalalar - Hem Evimsin Hem Cehennemim
 Lana Del Rey - Candy Necklace (feat. Jon Batiste)
 LANY - Alonica 
 Lastlings - Out My Head
@@ -260,10 +264,12 @@ Le Youth - Like You Did
 Lemonade Shoelace - Do Whatever Makes you Happy
 Leon Bridges - Naomi
 Let 3 - Mama ŠČ!
+Lexie Liu - Bad Dream
 L'Impératrice x Cuco — Heartquake
 LION BABE - Thinkin Bout You
 Little Dragon - Gold
 Little Dragon - Kenneth
+Lizzo - Pink
 Locate S,1 - Heart Attack
 Lola Marsh & RedBand - Feel it Still
 Loreen - Tattoo
@@ -273,7 +279,6 @@ LSDXOXO – Devil’s Chariot
 LSDXOXO - Double Tap
 Lucia & The Best Boys - So Sweet I Could Die
 Luke Black - Samo mi se spava
-Luke Combs - Fast Car
 Luttrell - Sunrise Song
 LYRIQ — Почему?
 Maisie Peters - Two Weeks Ago
@@ -288,7 +293,6 @@ Maroon 5 - Middle Ground
 Martin Solveig & Raphaella - Allo Allo
 Matchbox Twenty - Don't Get Me Wrong
 Meduza - Phone (feat. Sam Tompkins & Em Beihold)
-Metric - Just The Once
 Middle Kids - Bootleg Firecracker 
 MIJOO - Movie Star
 Mika Vino - Change Is Gonna Come
@@ -297,7 +301,7 @@ Miley Cyrus - Jaded
 Minelli - Peligrosa
 MISAMO - Marshmallow
 Miya Folick - Cockroach
-Morgan Wallen - Last Night
+Molly Burch - Physical
 Motorama - Dreams
 MRCH - Stars Align
 Muse - Compliance (Purple Disco Machine Remix)
@@ -307,7 +311,6 @@ Mylène Farmer - L'emprise
 needanamebro - Not A Lot Left To Say
 Nessa Barrett - american jesus
 Nessa Barrett - hell is a teenage girl
-NEVERLOVE, BRATISHKIN — Большой 
 NewDad - In My Head
 Nia Archives - Off Wiv Ya Head
 Nick Cave & Debbie Harry - On The Other Side
@@ -321,16 +324,20 @@ Noel Gallagher's High Flying Birds - Open The Door, See What You Find
 Nothing But Thieves - Keeping You Around
 NZCA LINES - Push Reset
 Odesza, Claud - To Be Yours
+OH MY GIRL - Summer Comes
+OK Go - This 
 OLIGARKH - Камыш
+Olivia Dean, Leon Bridges - The Hardest Part
 ONUKA — PEREMOHA 
+OOMPH! - Wem die Stunde schlägt
 Pa Sheehy - These Days
 Paris Texas - Everybody's Safe Until... 
 Patio - En Plein Air
+Paul Kalkbrenner - Schwer
 Peggy Gou - (It Goes Like) Nanana
 Peter Gabriel - Road to Joy (Bright-Side Mix)
 Peter Gabriel - So Much (Dark-Side Mix)
 PinkPantheress - Angel
-PinkPantheress, Destroy Lonely - Turn Your Phone Off
 Pip Blom - Is This Love? (with Alex Kapranos)
 PJ Harvey - A Child's Question, August
 PJ Harvey - I Inside the Old I Dying
@@ -340,6 +347,7 @@ Point North - Safe And Sound (feat. The Ghost Inside)
 Polnalyubvi, Oligarkh - Дно
 Pop Evil - Skeletons
 POPP - Boulevard of Broken Dreams
+Poppy - Knockoff
 POPPY - Spit
 Portugal. The Man - Plastic Island
 Portugal. The Man - Summer of Luv (feat. Unknown Mortal Orchestra)
@@ -355,7 +363,7 @@ Purple Disco Machine - Bad Company
 Queens of the Stone Age - Carnavoyeur 
 Queens of the Stone Age - Paper Machete
 Qveen Herby - Barbie Girl
-Rancid - Tomorrow Never Comes
+ray! - Убегай
 Regard, Ella Henderson - No Sleep
 REN - Ready To Move
 Reverend And The Makers - A Letter To My 21 Year Old Self
@@ -365,8 +373,9 @@ Rita Ora - Don't Think Twice
 Rita Ora - Praising You (feat. Fatboy Slim)
 Robin Schulz - Smash my Heart 
 Robin Schulz & Fil Bo Riva - Killer Queen
-Rodriguez Jr. - Turn The Light On (feat. Stereo MC's)
 Róisín Murphy - Fader
+Róisín Murphy - You Knew
+Romy - The Sea
 Roosevelt - Luna 
 Roosevelt - Ordinary Love
 Rose Gray - Happiness
@@ -377,10 +386,13 @@ RSAC - Разведённые мосты
 Ruby Haunt - Northern Rivers
 Rudimental, Charlotte Plank & Vibe Chemistry - Dancing Is Healing
 Ruti - Nothing's Easy
+Ryan Gosling – I'm Just Ken
 Sailor Honeymoon - Cockroach
+Sam Smith - Man I Am
 Sam Smith, Jessie Reyez, Cat Burns - Perfect
 Samantha Urbani - More Than a Feeling
 Sampha - Spirit 2.0
+San Holo - BRING BACK THE COLOR (feat. AURORA)
 Satin Jackets & Panama - Alive
 Say Lou Lou - You're The One
 SebastiAn, London Grammar - Dancing By Night
@@ -392,11 +404,15 @@ SHINee - HARD
 Sigma - Adrenaline Rush (feat. Morgan)
 Sigur Rós - Andrá 
 Sigur Rós - Blóðberg
+Simple Minds - Solstice Kiss 
 Simply Red - Just Like You 
+Since 90's - Chasing fire (feat. Khumti Mongzar)
 Skindred - Gimme That Boom
+Skrillex, Boys Noize - Fine Day Anthem
 SLANDER & blackbear & Bring Me The Horizon - Wish I Could Forget
 Slayyyter - Out Of Time
 Sleep Theory - Numb
+Slowdive - skin in the game
 Snakehips, Daya & EarthGang - Sometimes...
 Sonny Fodera, MK, Clementine Douglas - Asking
 Sparklehorse - Evening Star Supercharger
@@ -404,12 +420,11 @@ Sparks - Nothing Is As Good As They Say It Is
 Sparks - Veronica Lake
 Spencer Sutherland & Meghan Trainor - Chicken Little
 Squid - The Blades
-Squid - Undergrowth
 Steady Holiday - Summer (feat. Jim James)
+Steve Lacy - Helmet
 Sudley - fumble (feat. piri)
 Swedish House Mafia - See the Light
 Taeyang ft. Lisa - Shoong!
-Taylor Swift -  I Can See You (Taylor's Version) (From The Vault)
 Teen Jesus and the Jean Teasers - Never Saw It Coming
 Teenage Fanclub - Foreign Land
 Teenage Fanclub - Tired Of Being Alone
@@ -418,7 +433,6 @@ Teleport - Літо
 Ten Tonnes - Drowning In The Deep End
 Tensnake - Take Your Time (Do It Right)
 Tessa Violet - MY GOD!
-Texas - After All
 Texas - Keep On Talking
 Teya & Salena - Who The Hell Is Edgar?
 The Aces - I've Loved You For So Long
@@ -438,14 +452,13 @@ The Coral - Wild Bird
 The Drums - Obvious
 The Future X - Daffodil
 The Gaslight Anthem - Positive Charge
+The Gluttones - Something
 THE GOA EXPRESS - Talking About Stuff
 The Hives - Bogus Operandi
 The Hives - Countdown to Shutdown
 The Hives - Rigor Mortis Radio
 The Hoosiers - Hello Sunshine 
-The HU - Black Thunder (feat. Serj Tankian & DL of Bad Wolves)
 The HU - Mother Nature (feat. LP)
-The Japanese House - Sad to Breathe
 The Japanese House - Sunshine Baby
 The Knocks - I Promise
 The Murlocs - Queen Pinky
@@ -457,7 +470,9 @@ The Parade - I'm a dreamer
 The Pigeon Detectives - Falling to Pieces
 The Pigeon Detectives - Summer Girl
 The Rions - Minivan
+The Rose – Back To Me 
 The Sherlocks - People Like Me & You
+The Sixsters - For us... For me...
 The Sixsters - Seem to dance
 The Smile - Bending Hectic
 The Snuts - Gloria
@@ -465,7 +480,6 @@ The Streets – Troubled Waters
 The Used - Giving Up
 The Used - Numb
 The View - Shovel in His Hands 
-The Weeknd - Double Fantasy (feat. Future)
 Thirty Seconds To Mars — Get Up Kid
 Thirty Seconds To Mars - Life Is Beautiful
 Thundercat & Tame Impala - No More Lies
@@ -475,18 +489,17 @@ Topic – Lucid Dream
 TREASURE T5 - Move
 TripleS - Cherry Talk
 Trophy Eyes - People Like You
-Troye Sivan - Rush
 TVORCHI & The HARDKISS - Мрійники
 TXT, Jonas Brothers - Do It Like That
 Tycho - Time To Run
 Vagabon - Can I Talk My Shit?
 Vallis Alps - You & I
-Verbludes - Метроном (feat. Свидание)
 Vesna - My Sister's Crown
 Voyager - Ultraviolet (Feat. Sean Harmanis)
 Wildways & Mary Gu — Я тебя тоже
 Will Butler + Sister Squares - Long Grass
 Will Sparks - Blow Your Mind
+will.i.am, Britney Spears - Mind Your Business
 Wye Oak - Every Day Like The Last
 Wye Oak - I Learned It From You
 X Ambassadors, Medium Build - Friend For Life
@@ -495,18 +508,21 @@ Y U QT & Dusky - Rush
 Yard Act - The Trench Coat Museum
 Yellowcard - Childhood Eyes
 YENA - Hate Rodrigo (feat. YUQI of (G)-IDLE)
+yeule - dazies
+YUNGWAY feat. MAYOT - Джанки
 Yussef Dayes - Black Classical Music (feat. Venna & Charlie Stacey)
 Yussef Dayes - Marching Band (feat. Masego)
 Zara Larsson - End Of Time
+Антоха MC, Zivert - СПИЧКИ
 Антоха МС & Золотые зубы - Река
 Братья грим - Дожди
+ГРОМЫКА - Влиятельный человек
 Диктофон - Диско-шар
 Дима Билан - Ночь-Провода
 Елена Темникова - Лунная ночь
 Звери - Синий трамвай
 Золотые зубы - Я слушаю зе викенда и ем торт
 КОСМОНАВТОВ НЕТ - КНОПОЧКИ
-Кровосток - Ленин
 ЛАУД - Джанки
 Лена Катина - Белла чао
 Лизогуб - ДЕВОЧКА УЭНСДЕЙ
@@ -523,20 +539,16 @@ Zara Larsson - End Of Time
 нэнси холод - я умру так рано
 Океан Ельзи & KOLA - Коли ми двоє
 Олег Чубыкин feat. Александр Иванов - Девчонка
-ПАНЦУШОТ - Батя с Дедом
-Парнишка - За моря
+Павел Додонов - Angel's routine
 Руки Вверх & Zivert - недостаточно
 САММЕР КОМА - ОПОЗДАЛ (feat. Космос на потолке)
 Самое Большое Простое Число feat. Аня Захарова - Значит
+Сергей Лазарев - Вкус Малины
+Сестрёнка - Магниты
 Синекдоха Монток — Драка
 Сироткин, FEDUK - Никто не любит быть один
-Стереополина - Я хочу домой
 Сюзанна - Не чета (Yuri Usachev remix)
 Таверна - Новое время (feat. Тэм Булатов)
-Танцы Минус — Золотом
 Тося Чайкина - Аномалия
-Три дня дождя - За край
 Фазы - Новое Солнце 
-Хаски - О любви
-Юрий Шевчук, Дмитрий Емельянов — Похороны войны
-ЮЮ - Голубочки
+хрися - Смысл жить
